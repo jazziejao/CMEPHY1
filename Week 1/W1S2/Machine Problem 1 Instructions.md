@@ -1,2 +1,2 @@
-- Download dataset here: https://drive.google.com/drive/folders/1tXJ-ow1d3j3Tfra8zdYkdM0w6CH0jZDB?usp=drive_link
+- Download two (2) dataset here, `station.csv` and `station_hour.csv`  : https://drive.google.com/drive/folders/1tXJ-ow1d3j3Tfra8zdYkdM0w6CH0jZDB?usp=drive_link
 - Download the questionnaire here: 
